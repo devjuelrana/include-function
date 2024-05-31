@@ -1,0 +1,15 @@
+ul {
+	background-color: maroon;
+}
+ul li {
+	list-style: none;
+	display: inline-block;
+}
+ul li a {
+	font-size: 20px;
+	text-decoration: none;
+	padding: 10px 20px;
+	float: left;
+	color: #fff;
+	margin-left: 0;
+}
